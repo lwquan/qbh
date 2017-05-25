@@ -269,7 +269,7 @@ s {
 }
 
 .shouye-wrap>.box-right {
-	transition: all .5s ease;
+	transition: all 1s ease;
 	-webkit-transition: all 1s ease;
 	-moz-transition: all 1s ease;
 	-ms-transition: all 1s ease;
