@@ -239,11 +239,11 @@ s {
 	height: 100%;
 	overflow: hidden;
 	background-color: #00a3df;
-	-webkit-transition: width 1.1s ease;
-	-moz-transition: width 1.1s ease;
-	-ms-transition: width 1.1s ease;
-	-o-transition: width 1.1s ease;
-	transition: width 1.1s ease;
+	-webkit-transition: width .9s ease;
+	-moz-transition: width .9s ease;
+	-ms-transition: width .9s ease;
+	-o-transition: width .9s ease;
+	transition: width .9s ease;
 }
 
 .shouye-wrap>.box-left>.box-left-nav ul>.title {
