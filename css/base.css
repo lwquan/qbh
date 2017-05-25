@@ -159,11 +159,11 @@ s {
 }
 
 .show {
-	transform:translateX(0);
-	-ms-transform:translateX(0); 	/* IE 9 */
-	-moz-transform:translateX(0); 	/* Firefox */
-	-webkit-transform:translateX(0); /* Safari 和 Chrome */
-	-o-transform:translateX(0); 
+	transform:translateX(0)!important;
+	-ms-transform:translateX(0)!important; 	/* IE 9 */
+	-moz-transform:translateX(0)!important; 	/* Firefox */
+	-webkit-transform:translateX(0)!important; /* Safari 和 Chrome */
+	-o-transform:translateX(0)!important; 
 }
 
 .ml {
