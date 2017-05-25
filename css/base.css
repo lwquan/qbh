@@ -169,6 +169,12 @@ s {
 }
 
 .ml {
+	position:fixed;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	background-color: transparence;
 	transform:translateX(270px);
 	-ms-transform:translateX(270px); 	/* IE 9 */
 	-moz-transform:translateX(270px); 	/* Firefox */
